@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D7C28FD279150470040588E /* ToMatcho.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D7C28FC279150470040588E /* ToMatcho.storyboard */; };
 		B4311EBB27911D6F000EC348 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4311EBA27911D6F000EC348 /* AppDelegate.swift */; };
 		B4311EBD27911D6F000EC348 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4311EBC27911D6F000EC348 /* SceneDelegate.swift */; };
 		B4311EBF27911D6F000EC348 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4311EBE27911D6F000EC348 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1D7C28FC279150470040588E /* ToMatcho.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ToMatcho.storyboard; sourceTree = "<group>"; };
 		B4311EB727911D6F000EC348 /* ToMatcho.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToMatcho.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4311EBA27911D6F000EC348 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4311EBC27911D6F000EC348 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				B4311EBC27911D6F000EC348 /* SceneDelegate.swift */,
 				B4311EBE27911D6F000EC348 /* ViewController.swift */,
 				B4311EC027911D6F000EC348 /* Main.storyboard */,
+				1D7C28FC279150470040588E /* ToMatcho.storyboard */,
 				B4311EC627911D71000EC348 /* Assets.xcassets */,
 				B4311EC827911D71000EC348 /* LaunchScreen.storyboard */,
 				B4311ECB27911D71000EC348 /* Info.plist */,
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4311ECA27911D71000EC348 /* LaunchScreen.storyboard in Resources */,
+				1D7C28FD279150470040588E /* ToMatcho.storyboard in Resources */,
 				B4311EC727911D71000EC348 /* Assets.xcassets in Resources */,
 				B4311EC227911D6F000EC348 /* Main.storyboard in Resources */,
 			);
